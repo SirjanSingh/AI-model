@@ -5,7 +5,7 @@ This notebook allows you to run [Fooocus](https://github.com/lllyasviel/Fooocus)
 ---
 
 ## 🚀 Quick Start
-
+ 
 Click below to launch the notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KSOEnz7nYg7WA4IC2tu7TPhNHCntoC2q?usp=sharing)
